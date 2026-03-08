@@ -1,4 +1,4 @@
-https://developer.android.com/bench/methodology# Android Bench
+# Android Bench
 
 Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems.
 
